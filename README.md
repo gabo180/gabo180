@@ -2,8 +2,6 @@
 #### Full-Stack Developer
 I'm a passionate Full Stack developer, highly detail-oriented, with a problem-solving mind, and always committed to providing the best results possible.
 
-Skills: REACT / JS / HTML / CSS
-
 - 🔭 I’m currently working on Full Stack Development projects 
 - 🌱 I’m currently learning about development best practices. 
 - 👯 I’m looking to collaborate on interesting meaninful and stunning projects. 
