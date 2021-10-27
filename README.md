@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gabriel Hernandez
 #### Full-Stack Developer
-I'm a passionate Full Stack developer, highly detail-oriented, with a problem-solving mind, and always committed to providing the best results possible.
+I'm a passionate Full Stack developer with high proficiency, and knowledge in technologies such as JavaScript, React, Python, Flask, and REST APIs. Highly detail-oriented, with a problem-solving mind, teamwork, efficiency, and always committed to providing the best results possible.
 
 - 🔭 I’m currently working on Full Stack Development projects 
 - 🌱 I’m currently learning about development best practices. 
