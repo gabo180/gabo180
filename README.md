@@ -4,7 +4,7 @@ I'm a passionate Full Stack developer with high proficiency, and knowledge in te
 
 - 🔭 I’m currently working on Full Stack Development projects 
 - 🌱 I’m currently learning about development best practices. 
-- 👯 I’m looking to collaborate on interesting meaninful and stunning projects. 
+- 👯 I’m looking to collaborate on interesting meaningful and stunning projects. 
 - 💬 Ask me about games and daugthers. 
 - 📫 How to reach me: gabrieldejesushernandez@gmail.com 
 - ⚡ Fun fact: I firmly believe that anyone can learn anything! 
